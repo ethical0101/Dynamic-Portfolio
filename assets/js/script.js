@@ -98,6 +98,9 @@ border-radius: ${borderRadius};
 .navbar-link {
 color: ${primaryColor};
 }
+.skills-title{
+  color: red;
+}
 .skills-progress {
 background-color: ${primaryColor};
 }
